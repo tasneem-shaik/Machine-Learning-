@@ -1,8 +1,4 @@
-
-**Machine Learning**
-** CS 5710 & CRN 13469**
-Professor: Muhammad Zubair Khan
-
+Machine Learning (Assignment# 2) Course Info: CS 5710 & CRN 13466 Professor: Muhammad Zubair Khan
 Assignment2 - InClass Programming Activity
 Student Info:
 First Name:Tasneem
